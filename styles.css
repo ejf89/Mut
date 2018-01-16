@@ -1,0 +1,32 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: inline-block;
+  text-align: center;
+}
+
+.logo {
+  margin: 0 auto;
+  width: 40%;
+  display: inline-grid;
+}
+
+.logo-pic{
+  width: 60%;
+  margin: auto;
+}
+
+.video {
+  padding-top: 43;
+}
+
+.links {
+  width: 100%;
+  padding-top: 5rem;
+}
+
+a {
+  padding-left: 2rem;
+  text-decoration: none;
+}
+
